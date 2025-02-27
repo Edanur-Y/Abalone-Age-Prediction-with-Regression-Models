@@ -10,6 +10,7 @@ pandas, numpy, seaborn, matplotlib.pyplot, sklearn
 
 - Missing value analysis
 - Outlier analysis
+- Recursive Feature Elimination (RFE)
 - Model evaluation
 - Hyperparameter tuning with Grid Search Cross-Validation
 
